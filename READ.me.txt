@@ -1,0 +1,2 @@
+For the future me, do not delete this repository. It is a telegram bot, but not the finished one. Here i was able to make it response accordingly with 
+a classification regression.
